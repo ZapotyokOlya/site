@@ -1,0 +1,6 @@
+*.iml
+*.idea
+*.lib
+/idea/
+/target/
+/checkstyle.xml
