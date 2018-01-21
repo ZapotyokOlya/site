@@ -2,5 +2,5 @@
 *.idea
 *.lib
 */idea/
-*/target/
+*/target/*
 /checkstyle.xml
